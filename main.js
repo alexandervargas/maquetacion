@@ -34,9 +34,6 @@ all.addEventListener('click', function () {
     }
 
     xhr.send();
-    var filtered=portfolio.filter(function(item){
-        return item.type=="Branding";         
-    });
-    console.log(filtered);
+    
 });
 
