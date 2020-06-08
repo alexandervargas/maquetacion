@@ -3,103 +3,103 @@
         "id": 1,
         "nombre": "Design",
         "categoria": "Branding",
-        "ruta": "/img/1.jpg"
+        "ruta": "img/1.jpg"
     },
     {
         "id": 2,
         "nombre": "Foto2",
         "categoria": "Photography",
-        "ruta": "/img/2.jpg"
+        "ruta": "img/2.jpg"
     },
     {
         "id": 3,
         "nombre": "Foto 3",
         "categoria": "Web",
-        "ruta": "/img/3.jpg"
+        "ruta": "img/3.jpg"
     },
     {
         "id": 4,
         "nombre": "Foto 4",
         "categoria": "Apps",
-        "ruta": "/img/4.jpg"
+        "ruta": "img/4.jpg"
     }
     ,
     {
         "id": 5,
         "nombre": "Foto 5",
         "categoria": "Branding",
-        "ruta": "/img/5.jpg"
+        "ruta": "img/5.jpg"
     },
     {
         "id": 6,
         "nombre": "Foto 6",
         "categoria": "Web",
-        "ruta": "/img/6.jpg"
+        "ruta": "img/6.jpg"
     },
     {
         "id": 7,
         "nombre": "Foto 7",
         "categoria": "Apps",
-        "ruta": "/img/7.jpg"
+        "ruta": "img/7.jpg"
     },
     {
         "id": 8,
         "nombre": "foto 8",
         "categoria": "Photography",
-        "ruta": "/img/8.jpg"
+        "ruta": "img/8.jpg"
     },
     {
         "id": 9,
         "nombre": "Foto 9",
         "categoria": "Branding",
-        "ruta": "/img/9.jpg"
+        "ruta": "img/9.jpg"
     },
     {
         "id": 10,
         "nombre": "Foto 10 ",
         "categoria": "Photography",
-        "ruta": "/img/10.jpg"
+        "ruta": "img/10.jpg"
     },
     {
         "id": 11,
         "nombre": "Foto 11",
         "categoria": "Apps",
-        "ruta": "/img/11.jpg"
+        "ruta": "img/11.jpg"
     },
     {
         "id": 12,
         "nombre": "Foto 12",
         "categoria": "Branding",
-        "ruta": "/img/12.jpg"
+        "ruta": "img/12.jpg"
     },
     {
         "id": 13,
         "nombre": "Foto 13 ",
         "categoria": "Web",
-        "ruta": "/img/13.jpg"
+        "ruta": "img/13.jpg"
     },
     {
         "id": 14,
         "nombre": "Foto 14",
         "categoria": "Photography",
-        "ruta": "/img/14.jpg"
+        "ruta": "img/14.jpg"
     },
     {
         "id": 15,
         "nombre": "Foto 15",
         "categoria": "Branding",
-        "ruta": "/img/15.jpg"
+        "ruta": "img/15.jpg"
     },
     {
         "id": 16,
         "nombre": "Foto 16",
         "categoria": "Photography",
-        "ruta": "/img/16.jpg"
+        "ruta": "img/16.jpg"
     },
     {
         "id": 17,
         "nombre": "Foto 17",
         "categoria": "Apps",
-        "ruta": "/img/17.jpg"
+        "ruta": "img/17.jpg"
     }
 ]
