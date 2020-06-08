@@ -47,7 +47,7 @@ ul {
 
 .nav-brand{
     padding: 12px 1px;
-    width: 40px;
+    width: 30px;
     font-size: 19px;
 }
 .brand h1{
@@ -87,11 +87,11 @@ ul {
 .menu-btn{
     position: absolute;
     cursor: pointer;
-    top: 19px;
-    right: 20%;
+    top: 18px;
+    right: 2px;
     z-index: 2;
     display: none;
-    color: tomato;
+    color: #ff5773;
 
 }
 
@@ -142,8 +142,7 @@ ul {
 margin-bottom: 10px;
 }
 
-body{font-family: Arial,serif;}
- .clear{width:100%;clear:both;}
+
  
  /*Estilos Base*/
 .contenedor-img {
@@ -199,7 +198,6 @@ body{font-family: Arial,serif;}
             box-shadow: 0 0 5px #000
         }
 
-/*Ejemplo 5*/
 .ejemplo-5 img { 
 	transform: scaleY(1);
 	transition: all 0.7s ease-in-out;
@@ -225,12 +223,7 @@ body{font-family: Arial,serif;}
     transform: scale(0);
     transition: all 0.5s linear;
 }
-.ejemplo-5 a.link { 
-    opacity: 0;
-    transform: scale(0);
-    transition: all 0.5s linear;
-    background-color: rgba(119, 80, 21, 0.9);
-}
+
 
 .ejemplo-5:hover img { 
 	transform: scale(10);
@@ -258,30 +251,6 @@ body{font-family: Arial,serif;}
     width: 90%;
     height: 280px;
 }
-.projects-cards img:hover{
-    transform: scale(1.15,1.15);
-    transition: all 3000ms cubic-bezier(.19,1,.22,1);
-    background-color: rgba(255,211,17,0.2); }
-
-.projects-cards h3{
-    font-size: 20px;
-    margin: 10px 0;
-}
-.projects-cards a{
- padding: 1px;
-color: #f2f2f2;
-text-transform: uppercase;
-display: inline-block;
-font-weight: bold;
-}
-.projects-cards a:hover{
-    text-decoration: underline;
-  
-}
-
-
-
-
 
 
 .social{
@@ -345,10 +314,10 @@ margin:50px;
         position: absolute;
         top: 0;
         left: 0;
-        background: #2f3640;
+        background: #ffffff;
         height: 100%;
         padding: 30px;
-        opacity: .9;
+        opacity: .95;
         transform: translateX(-200px);
         transition: transform .3s ease-in-out;
     }
@@ -374,7 +343,8 @@ margin:50px;
 }
 @media (max-width:500px){
     .menu-btn {
-        right: 18px;
+        display: block;
+       right: 30px;
     }
 
     .projects-cards{
